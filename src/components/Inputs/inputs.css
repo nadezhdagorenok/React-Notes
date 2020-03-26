@@ -1,0 +1,9 @@
+.inputBlock{
+    width: 100%;
+}
+.input{
+    width: 100%;
+    height: 30px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
